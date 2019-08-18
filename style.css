@@ -1,0 +1,32 @@
+/* Simple adjustments */
+
+html {
+	padding:20px;
+}
+
+a {
+	color:black;
+	text-decoration:none;
+}
+
+a.icon {
+	display: inline-block;
+}
+
+object {
+	width: 100%;
+}
+
+p.long {
+	text-align:justify;
+	max-width:20em;
+}
+
+a:hover {
+	color:blue;
+	text-decoration:underline;
+}
+
+object{
+	pointer-events: none;
+}
